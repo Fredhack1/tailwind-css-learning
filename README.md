@@ -9,7 +9,7 @@ Après avoir cloné le code, installez toutes les dépendances en utilisant cett
     npm install
 ```
 
-Ensuite lancez le serveur tailwind avec la commande : `npm run start`
+Ensuite lancez le serveur tailwind avec la commande :
 
 ```bash
     npm run start
